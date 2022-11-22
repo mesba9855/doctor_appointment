@@ -464,9 +464,9 @@ if($num == 1){
 						<div class="info-detail">
 							<ul><li><i class="fa fa-calendar"></i><span>saturday - Friday:</span> 9:30 AM to 6:30 PM</li></ul>
 							<ul><li><i class="fa fa-map-marker"></i><span>Address:</span> 123 mirpur , Dhaka, Bangkadesh</li></ul>
-							<ul><li><i class="fa fa-phone"></i><span>Phone:</span> +880 1740 394222</li></ul>
+							<ul><li><i class="fa fa-phone"></i><span>Phone:</span> +880 1796100024</li></ul>
 							<ul><li><i class="fa fa-fax"></i><span>Fax:</span> 333333</li></ul>
-							<ul><li><i class="fa fa-envelope"></i><span>Email:</span> sazolb208@gmail.com</li></ul>
+							<ul><li><i class="fa fa-envelope"></i><span>Email:</span> shanto.swe@gmail.com</li></ul>
 						</div>
 					</div>
 					<div class="col-md-6 col-md-offset-1 contact-form">
@@ -495,9 +495,9 @@ if($num == 1){
 					<p>&copy;sazol All right reserved</p>
 				</div>
 				<div class="col-xs-6 text-right">
-					<a href="https://www.facebook.com/sazolborman222/"><i class="fa fa-facebook"></i></a>
-					<a href="https://twitter.com/sazolborman"><i class="fa fa-twitter"></i></a>
-					<a href="sazolborman@gmail.com"><i class="fa fa-skype"></i></a>
+					<a href="https://www.facebook.com/shanto.diu/"><i class="fa fa-facebook"></i></a>
+					<a href="https://twitter.com/mesba9855"><i class="fa fa-twitter"></i></a>
+					<a href="shanto.swe@gmail.com"><i class="fa fa-skype"></i></a>
 				</div>
 			</div>
 		</div>

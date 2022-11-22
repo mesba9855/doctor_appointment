@@ -91,7 +91,7 @@ $countingg = $result -> num_rows;
 							<li class="divider"></li>
 							<li>
 								<div class="dropdown-messages-box"><a href="profile.html" class="pull-left">
-									<img alt="image" class="img-circle" src="sazol.jpg">
+									<img alt="image" class="img-circle" src="shanto.jpg">
 									</a>
 									<div class="message-body"><small class="pull-right"></small>
 										<a href="#"> <strong></strong>.</a>
@@ -133,7 +133,7 @@ $countingg = $result -> num_rows;
 	<div id="sidebar-collapse" class="col-sm-3 col-lg-2 sidebar">
 		<div class="profile-sidebar">
 			<div class="profile-userpic">
-				<img src="sazol.jpg" class="img-responsive" alt="">
+				<img src="shanto.jpg" class="img-responsive" alt="">
 			</div>
 			<div class="profile-usertitle">
 				<div class="profile-usertitle-name">Admin</div>
